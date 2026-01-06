@@ -233,7 +233,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Your Name - MLOps Assignment
+- Saket Kumar - MLOps Assignment
 
 ## 🙏 Acknowledgments
 
